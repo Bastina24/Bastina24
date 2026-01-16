@@ -40,8 +40,9 @@ Turning raw data into meaningful insights through dashboards and analysis.
 ---
 
 ## 📜 Certifications & Training
-- Data Analytics & Artificial Intelligence – Holy Cross College
-- Data Analyst Training – SLA Institute
+- Data Analytics & Artificial Intelligence – Holy Cross College,Trichy
+- Data Analyst Training – SLA Institute,Chennai
+- NPTEL-Soft skill development- Holy Cross College,Trichy
 
 ---
 
